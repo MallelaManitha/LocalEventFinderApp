@@ -44,7 +44,7 @@ Installation
 To run this project locally, follow these steps:
 
 Clone the Repository:
-git clone https://github.com/yourusername/LocalEventFinderApp.git
+[git clone https://github.com/MallelaManitha/LocalEventFinderApp.git
 cd LocalEventFinderApp
 Open the Project in Android Studio: Launch Android Studio and open the cloned project directory.
 
